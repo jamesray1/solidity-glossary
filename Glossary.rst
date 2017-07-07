@@ -4,5 +4,5 @@ The following glossary list is ordered from the simplest to the most complex. To
 
 1. `Logical operators <http://www.learncpp.com/cpp-tutorial/36-logical-operators/>`_ 
 2. `Relational operators <http://www.learncpp.com/cpp-tutorial/35-relational-operators-comparisons/>`_
-3. `Keccak <http://keccak.noekeon.org/specs_summary.html>`_: Solidity doesn't use the newest specification available, it uses the one submitted to the SHA3 competition.
+3. `Keccak <http://keccak.noekeon.org/specs_summary.html>`_. Note that Solidity doesn't use the newest specification available, it uses the one submitted to the SHA3 competition.
 
