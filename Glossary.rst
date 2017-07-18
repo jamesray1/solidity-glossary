@@ -4,6 +4,6 @@ The following glossary list is ordered roughly from the simplest to the most com
 
 1. `Logical operators <http://www.learncpp.com/cpp-tutorial/36-logical-operators/>`_ 
 2. `Relational operators <http://www.learncpp.com/cpp-tutorial/35-relational-operators-comparisons/>`_
-3. `Assert <http://www.learncpp.com/cpp-tutorial/7-12a-assert-and-static_assert/>`  
-3. `Keccak <http://keccak.noekeon.org/specs_summary.html>`_. Note that Solidity doesn't use the newest specification available, it uses the one submitted to the SHA3 competition.
+3. `Assert <http://www.learncpp.com/cpp-tutorial/7-12a-assert-and-static_assert/>`
+4. `Keccak <http://keccak.noekeon.org/specs_summary.html>`_. Note that Solidity doesn't use the newest specification available, it uses the one submitted to the SHA3 competition.
 
